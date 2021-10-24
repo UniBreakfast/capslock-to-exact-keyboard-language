@@ -12,9 +12,11 @@ And it is compiled into a Windows executable to simply run without the need to i
 
 ## What does it do
 
-It disables the standard behavior of the `CapsLock` key, so it does not turn ON/OFF any more. And it has nothing to do with upper or lower case now too.
+It disables the standard behaviour of the `CapsLock` key, so it does not turn ON/OFF any more. And it has nothing to do with upper or lower case now too.
 
 Instead it switches the keyboard language. It's made for those who are like me grew tired of constantly guessing which language is it now and how many times do they have to press `Ctrl + Shift` or `Alt + Shift` for it to be the keyboard language they need right now.
+
+All of the above is true while the programm is running. Simply close it in your system tray to return to the normal `CapsLock` behaviour.
 
 ##### currently supported languages:
 
