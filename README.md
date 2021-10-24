@@ -3,7 +3,7 @@
 #### for Windows OS only!
 
 ## What is it
-It's a custom AutoHotkey script made by me [UniBreakfast](https://github.com/UniBreakfast) and ![BuYn](https://github.com/Buyn).
+It's a custom AutoHotkey script made by me [UniBreakfast](https://github.com/UniBreakfast) and [BuYn](https://github.com/Buyn).
 And it is compiled into a Windows executable to simply run without the need to install AutoHotkey on your PC.
 
 ## What does it do
