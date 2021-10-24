@@ -12,10 +12,10 @@ Instead it switches the keyboard language. It's made for those who are like me g
 
 ##### currently supported languages:
 
+|       keys        |  language |
+---------------------------------
 | `CapsLock`        |   English |
----------------------------------
 | `Alt + CapsLock`  |   Russian |
----------------------------------
 | `Ctrl + CapsLock` | Ukrainian |
 
 ## How to install
