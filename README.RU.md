@@ -25,7 +25,7 @@
 | `Ctrl + CapsLock` | Украинский |
 
 ## Как установить
-Просто скачайте `CapsLock to exact keyboard language.exe` на ваш компьютер и добавьте ярлык на него в папку автозагрузки вашего пользователя. Для меня путь был таким
+Просто скачайте [`CapsLock.to.exact.keyboard.language.exe`](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/releases/download/release/CapsLock.to.exact.keyboard.language.exe) на ваш компьютер и добавьте ярлык на него в папку автозагрузки вашего пользователя. Для меня путь был таким
 
 ```c:\Users\Michael\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\```
 

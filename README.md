@@ -25,7 +25,7 @@ Instead it switches the keyboard language. It's made for those who are like me g
 | `Ctrl + CapsLock` | Ukrainian |
 
 ## How to install
-Simply download the `CapsLock to exact keyboard language.exe` to your computer and add the shortcut for it into your user Startup folder. For me it was
+Simply download the [`CapsLock.to.exact.keyboard.language.exe`](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/releases/download/release/CapsLock.to.exact.keyboard.language.exe) to your computer and add the shortcut for it into your user Startup folder. For me it was
 
 ```c:\Users\Michael\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\```
 
