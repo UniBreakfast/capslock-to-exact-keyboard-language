@@ -1,4 +1,5 @@
 # CapsLock to exact keyboard language
+## [РУССКИЙ](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.RU.md) / [УКРАЇНСЬКА](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.UA.md)
 ### Made with [AutoHotkey](https://www.autohotkey.com/)
 #### for Windows OS only!
 ![an abstract keyboard](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/keyboard.png?raw=true)
@@ -11,16 +12,16 @@ And it is compiled into a Windows executable to simply run without the need to i
 
 ## What does it do
 
-It disables the standard behavior of the CapsLock key, so it does not turn ON/OFF any more. And it has nothing to do with upper or lower case now too.
+It disables the standard behavior of the `CapsLock` key, so it does not turn ON/OFF any more. And it has nothing to do with upper or lower case now too.
 
 Instead it switches the keyboard language. It's made for those who are like me grew tired of constantly guessing which language is it now and how many times do they have to press `Ctrl + Shift` or `Alt + Shift` for it to be the keyboard language they need right now.
 
 ##### currently supported languages:
 
-|       keys        |  language |
+|              keys | language  |
 |------------------:|:---------:|
-| `CapsLock`        |   English |
-| `Alt + CapsLock`  |   Russian |
+|        `CapsLock` |  English  |
+|  `Alt + CapsLock` |  Russian  |
 | `Ctrl + CapsLock` | Ukrainian |
 
 ## How to install
