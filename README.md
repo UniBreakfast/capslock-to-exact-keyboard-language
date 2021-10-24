@@ -1,9 +1,9 @@
 # CapsLock to exact keyboard language
-### Made with ![AutoHotkey](https://www.autohotkey.com/)
+### Made with [AutoHotkey](https://www.autohotkey.com/)
 #### for Windows OS only!
 
 ## What is it
-It's a custom AutoHotkey script made by me ![UniBreakfast](https://github.com/UniBreakfast) and ![BuYn](https://github.com/Buyn).
+It's a custom AutoHotkey script made by me [UniBreakfast](https://github.com/UniBreakfast) and ![BuYn](https://github.com/Buyn).
 And it is compiled into a Windows executable to simply run without the need to install AutoHotkey on your PC.
 
 ## What does it do
@@ -12,11 +12,11 @@ Instead it switches the keyboard language. It's made for those who are like me g
 
 ##### currently supported languages:
 
-`CapsLock`        |   English
----------------------------
-`Alt + CapsLock`  |   Russian
----------------------------
-`Ctrl + CapsLock` | Ukrainian
+| `CapsLock`        |   English |
+---------------------------------
+| `Alt + CapsLock`  |   Russian |
+---------------------------------
+| `Ctrl + CapsLock` | Ukrainian |
 
 ## How to install
 Simply download the `CapsLock to exact keyboard language.exe` to your computer and add the shortcut for it into your user Startup folder.
