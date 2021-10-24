@@ -1,5 +1,5 @@
 # CapsLock to exact keyboard language
-## [ENGLISH](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.md) / [УКРАЇНСЬКА](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.UA.md)
+## [readme in ENGLISH](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.md) / [УКРАЇНСЬКА мова пояснень](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.UA.md)
 ### Сделано с помощью [AutoHotkey](https://www.autohotkey.com/)
 #### Только для ОС Windows!
 ![абстрактная клавиатура](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/keyboard.png?raw=true)
