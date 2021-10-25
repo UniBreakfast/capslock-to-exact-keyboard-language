@@ -2,7 +2,7 @@ SetCapsLockState, AlwaysOff
 
 eng := 0x02809
 rus := 0x0419
-ukr := 0x0422
+ukr := 0x00020422
 
 CapsLock:: setKeyboardLang(eng)
 !CapsLock:: setKeyboardLang(rus)
