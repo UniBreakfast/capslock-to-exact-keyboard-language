@@ -32,3 +32,5 @@ Simply download the [`CapsLock.to.exact.keyboard.language.exe`](https://github.c
 ```c:\Users\Michael\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\```
 
 (on Windows 11). You can easily find your Startup folder if you Google for it.
+
+![image](https://github.com/user-attachments/assets/3fc3c123-f3e2-46ff-894b-db8446f37615)
