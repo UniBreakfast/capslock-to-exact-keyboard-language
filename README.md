@@ -1,6 +1,11 @@
+# [capslock-to-exact-keyboard-language](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language)
+
 # CapsLock to exact keyboard language
+
 ## [язык пояснений РУССКИЙ](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.RU.md) / [УКРАЇНСЬКА мова пояснень](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.UA.md)
+
 ### Made with [AutoHotkey](https://www.autohotkey.com/)
+
 #### for Windows OS only!
 ![an abstract keyboard](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/keyboard.png?raw=true)
 
