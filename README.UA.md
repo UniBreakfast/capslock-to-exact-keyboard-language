@@ -1,12 +1,16 @@
 # CapsLock to exact keyboard language
+
 ## [readme in ENGLISH](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.md) / [РУССКИЙ язык пояснения](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/README.RU.md)
+
 ### Зроблено за допомогою [AutoHotkey](https://www.autohotkey.com/)
+
 #### Тілько для ОС Windows!
+
 ![абстрактна клавіатура](https://github.com/UniBreakfast/capslock-to-exact-keyboard-language/blob/master/keyboard.png?raw=true)
 
 ## Що це за программа
 
-Це скрипт для AutoHotkey, зроблений0 нами, [UniBreakfast](https://github.com/UniBreakfast) та [BuYn](https://github.com/Buyn).
+Це скрипт для AutoHotkey, зроблений нами, [UniBreakfast](https://github.com/UniBreakfast) та [BuYn](https://github.com/Buyn).
 
 І він скомпільований в exe-шник що легко запускається на Windows, щоб його можна було використовувати без необхідності встановлювати AutoHotkey на ваш ПК.
 
